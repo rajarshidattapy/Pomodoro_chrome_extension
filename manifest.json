@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "Pomodoro Timer",
+    "version": "1.0",
+    "description": "A simple Pomodoro timer for focused work sessions.",
+    "action": {
+      "default_popup": "index.html"},
+    "permissions": ["storage"]
+  }
+  
